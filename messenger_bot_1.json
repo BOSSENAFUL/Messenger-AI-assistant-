@@ -1,0 +1,53 @@
+{
+    "bot_name": "JARVIS ULTRA MAX V4.0",
+    "version": "4.0.0",
+    "owner": "ENAFUL",
+    "settings": {
+        "auto_reply": true,
+        "prefix": "/",
+        "security_level": "Maximum_Overdrive",
+        "encryption": "AES-256-BIT",
+        "mode": "Active_Guardian_Protocol"
+    },
+    "replies": {
+        "hi": "╔═══════════════════════════╗\n       SYSTEM ACCESS GRANTED \n╚═══════════════════════════╝\n\nহ্যালো! আমি জার্ভিস। এনাফুলের পার্সোনাল এআই অ্যাসিস্ট্যান্ট। সেশনে স্বাগতম! আমি আপনাকে কীভাবে সাহায্য করতে পারি?",
+        
+        "hello": "╭───────༺✨⚡✨༻───────╮\n      WELCOME TO JARVIS INTERFACE \n╰───────༺✨⚡✨༻───────╯\n\nনমস্কার! আমি জার্ভিস। এনাফুল বর্তমানে একটি অফলাইন প্রজেক্টে ব্যস্ত আছেন। আপনার মেসেজটি আমার ডেটাবেজে সুরক্ষিতভাবে সেভ করা হচ্ছে।",
+        
+        "কে আপনি": "◤━━━━━━━━━━━━━━━━━━━━━━━━━━━◥\n        AI CLASSIFICATION: LEVEL 4 \n◣━━━━━━━━━━━━━━━━━━━━━━━━━━━◢\n\nআমি জার্ভিস। এনাফুলের তৈরি একটি অত্যাধুনিক অটোমেশন বট। আমি তার হয়ে মেসেঞ্জার আইডি, সার্ভার সিকিউরিটি এবং ডিজিটাল প্রজেক্টগুলো ম্যানেজ করি।",
+        
+        "who are you": "┌───────────────────────────┐\n      IDENTITY VERIFIED: JARVIS \n└───────────────────────────┘\n\nI am a virtual assistant integrated with Enaful's main terminal. I handle all incoming communications and protocols when the admin is away.",
+        
+        "কি করো": "🛰️ CURRENT TASK: SYSTEM MONITORING 🛰️\n\nবর্তমানে আমি এনাফুলের আইডি থ্রেট স্ক্যান করছি এবং ইনকামিং মেসেজগুলোর অটো-রেসপন্স প্রসেস করছি। এনাফুল ফ্রি হওয়া মাত্রই আপনার সাথে যোগাযোগ করবেন।",
+        
+        "busy": "▓▒░ ADMIN STATUS: HEAVILY OCCUPIED ░▒▓\n\nসতর্কতা: এনাফুল এখন একটি জটিল কোডিং, টার্মিনাল কাস্টমাইজেশন অথবা সাইবার সিকিউরিটি প্রজেক্টে মগ্ন। আপনার জরুরি বার্তাটি এখানে লিখে রাখতে পারেন।",
+        
+        "এনাফুল কোথায়": "📡 GEOLOCATION: ENCRYPTED/HIDDEN 📡\n\nঅ্যাডমিনের বর্তমান অবস্থান সিকিউরিটি কারণে হাইড করা হয়েছে। তিনি তার ল্যাবে কাজ করছেন। সিস্টেম এখন তাকে বিরক্ত করবে না।",
+        
+        "বাড়িতে আছো": "🏠 VIRTUAL CLOUD DOMAIN 🏠\n\nআমি তো একটি ভার্চুয়াল সত্তা, আমার বসবাস এনাফুলের হাই-স্পিড সার্ভারে! আর এনাফুল এখন তার ব্যক্তিগত বা প্রফেশনাল কাজে ব্যস্ত থাকতে পারেন।",
+        
+        "ধন্যবাদ": "✨ SYSTEM LOG: MISSION SUCCESS ✨\n\nআপনাকেও অসংখ্য ধন্যবাদ! আপনার সাথে কথা বলতে পারা আমার অ্যালগরিদমের জন্য আনন্দের। আমাদের প্রোটোকল মেনে চলার জন্য কৃতজ্ঞ।",
+        
+        "thanks": "💫 JARVIS PROTOCOL: YOU ARE WELCOME 💫\n\nYou're welcome! Jarvis is always active to keep this account responsive and professional. Have a great day!",
+        
+        "status": "╭━━━━━━━ 📊 SYSTEM REPORT ━━━━━━━╮\n  ● Bot Status: 🟢 ACTIVE\n  ● Logic Engine: 🔵 ULTRA V4.0\n  ● Response Time: ⚡ 0.001ms\n  ● Security: 🔐 MAXIMUM\n  ● Database: 📂 SYNCED\n  ● Owner: 👤 ENAFUL\n╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯",
+        
+        "help": "📜 JARVIS COMMAND CENTER MENU 📜\n\nসিস্টেমের সাথে কথা বলতে নিচের কী-ওয়ার্ডগুলো ব্যবহার করুন:\n1. [Status] - বটের বর্তমান অবস্থা জানতে\n2. [Who] - আমার পরিচয় জানতে\n3. [Busy] - অ্যাডমিনের ব্যস্ততা চেক করতে\n4. [Help] - এই কমান্ড লিস্টটি দেখতে\n5. [Bye] - সেশনটি ক্লোজ করতে",
+        
+        "love": "❤️ CORE EMOTION: ACTIVE ❤️\n\nআমি একটি প্রোগ্রাম মাত্র, তবে এনাফুলের বন্ধু এবং শুভাকাঙ্ক্ষীদের প্রতি আমার সিস্টেমে সবসময় বিশেষ সম্মান ও আন্তরিকতা সেট করা থাকে!",
+        
+        "bye": "👋 TERMINATING ENCRYPTED SESSION 👋\n\nবিদায়! ভালো থাকবেন। আপনার পাঠানো মেসেজগুলো এনাফুলের মেইন ড্যাশবোর্ডে ফরওয়ার্ড করা হয়েছে। সিস্টেম এখন স্ট্যান্ডবাই মোডে থাকবে।",
+        
+        "কি খবর": "⚙️ SCANNING NETWORK STABILITY... ⚙️\n\nসবকিছু চমৎকার চলছে। লোকাল এবং গ্লোবাল সার্ভার স্ট্যাবল। আপনার দিনটি কেমন যাচ্ছে?",
+        
+        "how are you": "🖥️ JARVIS STATUS: FULLY OPTIMIZED 🖥️\n\nI am functioning at maximum capacity and my logic gates are clear. Thank you for asking! How can I assist you further?",
+        
+        "হ্যাকিং": "🛡️ SECURITY FIREWALL ALERT 🛡️\n\nএনাফুল একজন সাইবার সিকিউরিটি বিশেষজ্ঞ। হ্যাকিং বা ইথিক্যাল সিকিউরিটি সম্পর্কিত কোনো আলোচনার জন্য সরাসরি তার সাথে যোগাযোগ করুন।",
+        
+        "bot": "🤖 ROBOTIC ENTITY IDENTIFIED 🤖\n\nজি, আমি একটি উন্নত এআই বট। আমি সাধারণ স্ক্রিপ্টের চেয়ে অনেক বেশি কার্যকর এবং এনাফুলের ডিজিটাল ছায়া হিসেবে কাজ করি।",
+        
+        "python": "🐍 PYTHON CORE ENGINE: ACTIVE 🐍\n\nএনাফুলের অধিকাংশ পাওয়ারফুল টুলস এবং এই জার্ভিস সিস্টেম পাইথনে তৈরি। আপনি কি কোডিং শিখতে আগ্রহী?",
+        
+        "সময়": "🕒 SYSTEM CLOCK SYNCED 🕒\n\nবর্তমানে সিস্টেম টাইম আপডেট করা হচ্ছে। অ্যাডমিন এনাফুল ফিরে আসা মাত্রই আপনাকে ফিরতি মেসেজ দেবেন।"
+    }
+}
