@@ -1,0 +1,35 @@
+name: Cyber Enaful Bot CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  schedule:
+    # প্রতি ৬ ঘণ্টা পর পর অটো-রিস্টার্ট হবে (বট সচল রাখতে সাহায্য করে)
+    - cron: '0 */6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install fbchat
+        # যদি আপনার অন্য কোনো রিকোয়ারমেন্ট থাকে তা এখানে যোগ করুন
+
+    - name: Run Cyber Enaful Bot
+      env:
+        # যদি সিক্রেট কি ব্যবহার করেন তবে এখানে দিবেন
+        PYTHONUNBUFFERED: 1
+      run: python cyber_enaful_bot.py
